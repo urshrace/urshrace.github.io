@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urshrace.github.io/sitemap.html.gz
+Sitemap: https://urshrace.github.io/app/sitemap.html.gz
+Sitemap: https://urshrace.github.io/assets/sitemap.html.gz
+Sitemap: https://urshrace.github.io/css/sitemap.html.gz
+Sitemap: https://urshrace.github.io/includes/sitemap.html.gz
+Sitemap: https://urshrace.github.io/item/sitemap.html.gz
+Sitemap: https://urshrace.github.io/src/sitemap.html.gz
